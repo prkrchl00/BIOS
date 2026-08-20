@@ -8,7 +8,7 @@ BIVOS provides dedicated portals for **Admin/Owner, Customer, and Delivery Staff
 
 The system also provides automated **product alerts** to help the administrator monitor products with **low stock levels** and products that are **approaching their expiration date**.
 
-
+---
 
 ## ✨ Features
 
