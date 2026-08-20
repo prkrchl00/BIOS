@@ -133,17 +133,17 @@ The Delivery Staff portal is designed for managing and completing assigned deliv
 
 ## 👥 User Roles
 
- User Role          | Main Responsibilities                                                                            
- **Admin/Owner**    | Manage products, inventory, orders, transactions, reports, users, deliveries, and product alerts 
- **Customer**       | Browse products, place orders, view purchases, and monitor order/delivery status                 
- **Delivery Staff** | Manage assigned deliveries and update delivery status                                            
+ User Role                                                                      
+ **Admin/Owner**    Manage products, inventory, orders, transactions, reports, users, deliveries, and product alerts 
+ **Customer**       Browse products, place orders, view purchases, and monitor order/delivery status                 
+ **Delivery Staff** Manage assigned deliveries and update delivery status                                            
 
 ---
 
 ## 📂 System Structure
 
 ```text
-BIVOS
+BIOS
 │
 ├── Admin/Owner Portal
 │   ├── Dashboard
@@ -174,14 +174,3 @@ BIVOS
     ├── Delivery Information
     ├── Delivery Status
     └── Completed Deliveries
-
-## 🚀 Installation
-
-1. Install a local development environment such as **XAMPP**.
-2. Clone or download this repository.
-3. Place the project folder inside the XAMPP `htdocs` directory.
-4. Start **Apache** and **MySQL** using the XAMPP Control Panel.
-5. Create the BIVOS database in **phpMyAdmin**.
-6. Import the provided `.sql` database file.
-7. Configure the database connection in the project's PHP configuration file.
-8. Open the system in your browser:
