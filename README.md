@@ -132,8 +132,7 @@ The Delivery Staff portal is designed for managing and completing assigned deliv
 ---
 
 ## 👥 User Roles
-
- User Role                                                                      
+                                                                    
  **Admin/Owner**     - Manage products, inventory, orders, transactions, reports, users, deliveries, and product alerts 
  **Customer**       - Browse products, place orders, view purchases, and monitor order/delivery status                 
  **Delivery Staff** - Manage assigned deliveries and update delivery status                                            
